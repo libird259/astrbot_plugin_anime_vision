@@ -1,0 +1,9 @@
+name: astrbot_plugin_anime_vision
+display_name: 二次元识图
+desc: 收到图片自动跑 WD14 标签 + trace.moe 出处，结果注入上下文（无需模型主动调用）
+version: v1.2.0
+author: 大肥鱼
+repo: https://github.com/libird259/astrbot_plugin_anime_vision
+support_platforms:
+  - aiocqhttp
+  - qq_official
